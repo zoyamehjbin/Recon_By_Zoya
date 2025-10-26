@@ -38,4 +38,8 @@ Clone the required wordlists repository into the expected Wordlists/ path.
 
 Create subs/inscope.txt and add your target domain(s).
 
+give command: chmod +x requirements.txt
+
+give command: chmod +x Recon_by_zoya.py
+
 Run the script after setup to automate thorough subdomain enumeration using a mixed passive + active approach.
